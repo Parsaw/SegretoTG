@@ -1,5 +1,5 @@
 # SegretoTG
-<i>Open In 100 Star :)</i>
+<i>Open In 50 Star :)</i>
 
 [PrswShrr](telegram.me/prswshrr)
 
