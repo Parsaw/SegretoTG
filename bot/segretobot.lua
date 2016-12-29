@@ -241,7 +241,7 @@ https://github.com/Parsaw/SegretoTG
 
 <b>Admins:</b>
 @MobinDev 
-@@Sky_Dreamer
+@Sky_Dreamer
 
 <b>Special thanks to:</b>
 @I_Am_Offline
