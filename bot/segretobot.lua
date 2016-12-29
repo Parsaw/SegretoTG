@@ -224,6 +224,7 @@ function create_config( )
 	"BanHammer",
 	"MsgHammer",
 	"Realm",
+	"Channel_Mod",		
 	"SpamHammer",
 	"Plugins",
 	"Stats"
