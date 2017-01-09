@@ -1,5 +1,5 @@
 # SegretoTG
-[URL=http://uupload.ir/view/zkac_photo_2017-01-09_15-40-42.jpg][IMG]http://uupload.ir/files/zkac_photo_2017-01-09_15-40-42_thumb.jpg[/IMG][/URL]
+<p align="center"> ![http://nahrup.ir/view/876/adv-v4.png](http://nahrup.ir/view/876/adv-v4.png)
 
 
 [PrswShrr](telegram.me/prswshrr)
