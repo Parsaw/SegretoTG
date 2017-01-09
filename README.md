@@ -1,5 +1,6 @@
 # SegretoTG
-<i>Open In 50 Star :)</i>
+<p align="center"> ![http://uupload.ir/files/zkac_photo_2017-01-09_15-40-42.jpg)
+
 
 [PrswShrr](telegram.me/prswshrr)
 
