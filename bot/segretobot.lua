@@ -223,11 +223,9 @@ function create_config( )
     "Channel_Mod",
 	"BanHammer",
 	"MsgHammer",
-	"Realm",
 	"Channel_Mod",		
 	"SpamHammer",
-	"Plugins",
-	"Stats"
+        "Stats",
     },
     sudo_users = {208066713,160149610,298405027,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
@@ -239,11 +237,11 @@ https://github.com/Parsaw/SegretoTG
 <b>Sudo:</b>
 @PrswShrr
 
-<b>Admins:</b>
+<b>Admin:</b>
 @MobinDev 
-@Sky_Dreamer
 
 <b>Special thanks to:</b>
+Alireza :D
 @I_Am_Offline
 @Mr_Creed
 <i>And All My Friends :D</i>
