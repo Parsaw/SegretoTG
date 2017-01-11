@@ -32,7 +32,7 @@ cd SegretoTG
 
 chmod +x launch.sh
 
-./launch.sh install
+git clone --recursive https://github.com/janlou/tg.git && cd tg && ./configure && make
 
 ./launsh.sh
 ```
