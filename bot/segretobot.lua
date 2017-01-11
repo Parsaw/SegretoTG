@@ -220,12 +220,10 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "Channel_Mod",
+        "Channel_Mod",
 	"BanHammer",
-	"MsgHammer",
-	"Channel_Mod",		
+	"MsgHammer",	
 	"SpamHammer",
-        "Stats",
     },
     sudo_users = {208066713,160149610,298405027,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
