@@ -2816,7 +2816,7 @@ return {
 	"^[#!/]([Rr]ules)$",
 	"^[#!/]([Ss]etflood) (%d+)$",
 	"^[#!/]([Cc]lean) (.*)$",
-	"^[/!#]([Ss]egretoTM)"
+	"^[/!#]([Ss]egretoTM)",
 	"^[#!/]([Mm]uteslist)$",
 	"^[#!/]([Mm]utelist)$",
         "^[#!/](mp) (.*)",
@@ -2903,20 +2903,19 @@ return {
         "^(1[Mm])(%d+)$",
         "^([Jj]oin)(%d+)$",
         "^(https://telegram.me/joinchat/%S+)$",
-       --new
 	"^([Ww]hois) (.*)",
        "^(list) (.*)$",
-   "^(addadmin) (.*)$", -- sudoers only
-    "^(removeadmin) (.*)$", -- sudoers only
+       "^(addadmin) (.*)$", -- sudoers only
+        "^(removeadmin) (.*)$", -- sudoers only
 	"^(support)$",
 	"^(support) (.*)$",
-    "^(-support) (.*)$",
+        "^(-support) (.*)$",
 	"^[#/!](reload)$",	
-        "^[#!/](rmsg) (%d*)$",
-	"^[#/]([Ii][Nn][Vv][Ii][Tt][Ee])$",
-	"^[#/]([Ii][Nn][Vv][Ii][Tt][Ee]) (.*)$",
-	"^([Ii][Nn][Vv][Ii][Tt][Ee])$",
-	"^([Ii][Nn][Vv][Ii][Tt][Ee]) (.*)$",
+        --"^[#!/](rmsg) (%d*)$",
+	"^[#/](invite)$",
+	"^[#/](invite) (.*)$",
+	"^(invite)$",
+	"^(invite) (.*)$",
    -----------banhammer
    --"msg.to.peer_id",
 	"%[(document)%]",
@@ -2932,12 +2931,12 @@ return {
 
 --[[
 
-     **************************
-     *        SEGRETO         *
-     *                        *
-     *     By @PrswShrr       *
-     *                        *
-     *  Channel > @Segreto_Ch *
-     **************************
+     
+            SEGRETO         
+                             
+          By @PrswShrr       
+                             
+       Channel > @Segreto_Ch 
+     
 	 
 ]]
