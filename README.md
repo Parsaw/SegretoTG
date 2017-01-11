@@ -49,17 +49,6 @@ chmod 777 segreto.sh
 screen ./segreto.sh
 ```
 ***
-## فعال سازی استیدی
-```sh 
-cd $home
-
-cd SegretoTG
-
-chmod +x steady.sh
-
-tmux new-session -s script "bash steady.sh -t"
-```
-***
 ## فعال سازی بدون آنتی کرش
 ```sh 
 cd $HOME
