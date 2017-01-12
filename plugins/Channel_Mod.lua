@@ -2879,7 +2879,7 @@ return {
 	"^([Mm]uteuser) (.*)$",
 	"^([Pp]ublic) (.*)$",
 	"^([Ss]ettings)$",
-   "^([Ss]egretoTM)"
+   "^([Ss]egretoTM)",
 	"^([Rr]ules)$",
 	"^([Ss]etflood) (%d+)$",
 	"^([Cc]lean) (.*)$",
