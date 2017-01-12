@@ -34,6 +34,8 @@ chmod +x launch.sh
 
 git clone --recursive https://github.com/janlou/tg.git && cd tg && ./configure && make
 
+cd ..
+
 ./launsh.sh
 ```
 ***
